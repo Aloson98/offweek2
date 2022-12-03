@@ -1,0 +1,1 @@
+web: guicorn offweek.wsgi --log-file -
